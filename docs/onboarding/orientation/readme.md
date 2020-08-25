@@ -1,16 +1,19 @@
 # Orientation
 
+Welcome to US OCP Code-with. Please use the onboarding checklist found in the orientation section to help complete tasks needed by a Code-with candidate.
+
 ## Objectives
 
--   Onboarding checklist that will help complete tasks needed by a Code-with candidate
+Here is a summary of the objectives for your onboarding:
+
 -   Learn the core principles of Code-with
 -   Learn how to be responsible to a team, both technically and operationally
     -   Model the behaviors we desire both interpersonally and technically.
     -   Learn to execute as a team member on an engagement to achieve a broader context and outcome 
--   Assignment of onboarding buddy who will assist you with getting started. 
--   A baseline assessment to capture your current expertise and competency for:
-    -   Software development
-    -   Fulfilling one or more Code-with team roles
+-   Assess your current development and role competency of a Code-with engineer
+
+## Onboarding Buddy
+Assignment of onboarding buddy who will assist you with getting started. 
 
 ## What is The Commitment?
 
@@ -20,4 +23,4 @@ Once you've entered as a team member onto a partner engagement, you are committe
 
 Once you've completed the engagement you can choose to no longer take on additional engagements for Code-with.
 
-## Checklist
+**Go to:** [Checklist](./checklist.md)
