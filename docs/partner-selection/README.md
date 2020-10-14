@@ -8,3 +8,12 @@ The envisioning phase in intended to gain a detailed technical understanding of 
 * Envisioning Session (1 day)
 * Architectural Design Session (2-3 days)
 
+### Envisioning Session
+The envisioning session is a one day session focused on deeper review of the business drivers and team readiness to execute. By the end of the envisioning session, the OCP Code With team should have an in depth understanding of:
+* Current and/or targeted DevOps practices
+* User story backlog
+* Executive sponsorship
+* Partner project team resources including project manager and the number of dedicated engineers
+
+### Architectural Design Session
+The architecture design session phase of envisioning could typically last 2-3 depending on the level of depth that was covered by previous architecture design sessions with the partner. The architecture design session in the code-with envisioning phase usually dives deeper into the application layer rather than staying at the higher solution level. It is critical that the partner includes all relevant technical resources in the architectural design session so that unknowns are kept to a minimum when entering the development phase. The architectural design session is the main opportunity to ensure there are no delays or blockers early into the development phase due to unforseen issues or requirements.
