@@ -14,6 +14,26 @@ The envisioning session is a one day session focused on deeper review of the bus
 * User story backlog
 * Executive sponsorship
 * Partner project team resources including project manager and the number of dedicated engineers
+* Production timelines
 
 ### Architectural Design Session
 The architecture design session phase of envisioning could typically last 2-3 depending on the level of depth that was covered by previous architecture design sessions with the partner. The architecture design session in the code-with envisioning phase usually dives deeper into the application layer rather than staying at the higher solution level. It is critical that the partner includes all relevant technical resources in the architectural design session so that unknowns are kept to a minimum when entering the development phase. The architectural design session is the main opportunity to ensure there are no delays or blockers early into the development phase due to unforseen issues or requirements.
+
+By the end of the architectural design session, the OCP code-with team should have a solid understanding of the following:
+* Non-functional requirements such as performance/scale targets, availability targets, etc. 
+* Proposed solution architecture
+* Application architecture at the component level
+* Data-tier design/services
+* Development stack / proposed technologies and tools
+* Proposed DevOps process
+* Testing strategies
+* Infrastructure requirements
+* Team dependencies
+* Migration requirements prior to development (data, source code, etc)
+* RBAC requirements for team members
+
+## Post-Envisioning
+At the end of the envisioning session, a go/no-go decision will be made so to wheter or not the project will be scheduled. Scheduling of the inital sprint will be based off both the partner/ocp availability, and any pre-requisite work that was identified during the envisioning phase.  Pre-requisite work would include things like:
+* Environment setup
+* User provisioning and permissions
+* Migration of code/data to new environment
