@@ -16,6 +16,7 @@ The envisioning session is a one day session focused on deeper review of the bus
 * Partner project team resources including project manager and the number of dedicated engineers
 * Production timelines
 * Project budget
+* Compliance requirements
 
 ### Architectural Design Session
 The architecture design session phase of envisioning could typically last 2-3 depending on the level of depth that was covered by previous architecture design sessions with the partner. The architecture design session in the code-with envisioning phase usually dives deeper into the application layer rather than staying at the higher solution level. It is critical that the partner includes all relevant technical resources in the architectural design session so that unknowns are kept to a minimum when entering the development phase. The architectural design session is the main opportunity to ensure there are no delays or blockers early into the development phase due to unforseen issues or requirements.
