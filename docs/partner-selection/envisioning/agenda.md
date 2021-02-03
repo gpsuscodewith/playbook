@@ -37,7 +37,7 @@ For the technical deep dive, it is helpful if the partner is able to provide any
 * Migration requirements prior to development (data, source code, etc)
 
 
-## Backlog Review
+### Backlog Review
 
 The backlog review session is a collaborative session to create and review user stories in a backlog.  During code-with sprints, the code-with team will work on user stories from the backlog, so the output of this session is a populated and understood backlog of user stories.  
 
