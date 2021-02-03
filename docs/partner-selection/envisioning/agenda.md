@@ -43,3 +43,10 @@ The backlog review session is a collaborative session to create and review user 
 
 For the backlog review, it would be helpful if the partner is able to share and describe any existing user stories in the backlog.  If there are no existing user stories in a backlog, this session will be focused on creating them.  In either case, it is important that the partner includes the business/domain experts in the session.
 
+### Next Steps / Planning
+
+This session is meant to plan out the post-envisioning session and potentially schedule some initial code-with sprints.  There may be cases where partners need to set up their Azure environments, provision users according to their roles, or migrate any needed data or infrastructure resources.
+
+The key output of this session is:
+* Identify prerequisites for code-with engagement
+* Schedule sprint 0
