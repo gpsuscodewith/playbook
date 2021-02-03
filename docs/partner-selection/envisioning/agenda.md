@@ -2,7 +2,7 @@
 
 ## 4 Session Agenda
 
-A virtual 4 session agenda is used to cover an Envisioning and Architectural Design Session over 4 virtual half-day sessions.  The four sessions are:
+A virtual series of four sessions can be run to cover the envisioning and architectural design session.  It can be used in place of the tradation all-day in-person Envisioning and Architectural Design Sessions.  The four sessions are:
 * Architecture Review 
 * Technical Deep Dives
 * Backlog Review
