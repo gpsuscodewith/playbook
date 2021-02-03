@@ -30,4 +30,7 @@ For the technical deep dive, it is helpful if the partner is able to provide any
 * Domain Model
 * Software stack / frameworks
 * Storage schema / technology
-* 
+
+## Backlog Review
+
+
