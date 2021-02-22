@@ -58,10 +58,12 @@ The key output of this session is:
 * Identify prerequisites for code-with engagement
 * Schedule sprint 0
 
-### In Person / All Day
-
+## Approaches to Delivery 
 
 ### Virtual 4-Session Agenda
 
 A virtual series of four sessions is used to cover the envisioning and architectural design sessions.  This would be used as an alternative to an in-person, all-day Envisioning and Architectural Design Sessions process.  The four sessions would be segmented according to structure previously defined.
 
+### In Person / All Day
+
+The code-with team would arrange an onsite or agreed upon location to deliver the full envisioning with the partner.
