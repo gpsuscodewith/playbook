@@ -1,18 +1,22 @@
 # Envisioning Agenda
 
-## 4 Session Agenda
+The Code-with envisioning has the following structure:
 
-A virtual series of four sessions can be run to cover the envisioning and architectural design session.  It can be used in place of the tradation all-day in-person Envisioning and Architectural Design Sessions.  The four sessions are:
 * Architecture Review 
 * Technical Deep Dives
 * Backlog Review
 * Next Steps / Planning
 
-### Architecture Review
+### 1. Architecture Review
 
-The architecture review is partner-lead and covers the current architecture or proposed architecture if one has already been chosen. When reviewing the technical architecture during this session, it should be in the context of the high-level solution objectives or requirements.  A review of the current/proposed team structure and DevOps process should be reviewed as well.
+The architecture review is partner-lead and covers the current architecture or proposed architecture (if one has already been chosen). The context is the 
 
-For the architecture review session, it is helpful if the partner is able to provide any materials that will help create the following session outputs:
+-   high-level solution objectives and/or requirements
+-   Team structures (of the partner) current or future
+-   DevOps processes
+
+For the architecture review, it is helpful if the partner is able to provide any materials that will help create the following session outputs:
+
 * High-level timelines
 * Team resources and roles
 * User personas
@@ -25,7 +29,7 @@ For the architecture review session, it is helpful if the partner is able to pro
 * Software stack / frameworks
 
 
-### Technical Deep Dives
+### 2. Technical Deep Dives
 
 The technical deep dive is used to dig into the physical architecture of the current or proposed solution. There will be more focus on the non-functional requirements, software stacks, domain model, storage design, etc.
 
@@ -37,16 +41,27 @@ For the technical deep dive, it is helpful if the partner is able to provide any
 * Migration requirements prior to development (data, source code, etc)
 
 
-### Backlog Review
+### 3. Backlog Review
 
-The backlog review session is a collaborative session to create and review user stories in a backlog.  During code-with sprints, the code-with team will work on user stories from the backlog, so the output of this session is a populated and understood backlog of user stories.  
+During the backlog review, the team reviews (or creates collaboratively) the user stories.  During code-with sprints, the code-with team will work on user stories from the backlog, so the output of this session is a populated and understood backlog of user stories.  
 
-For the backlog review, it would be helpful if the partner is able to share and describe any existing user stories in the backlog.  If there are no existing user stories in a backlog, this session will be focused on creating them.  In either case, it is important that the partner includes the business/domain experts in the session.
+The partner should be prepared to share and describe existing user stories / backlog items.  If there are no existing user stories in a backlog, this session will be focused on creating them.  
 
-### Next Steps / Planning
+Key participants that should be present include the business/domain subject matter experts.
+
+### 4. Next Steps / Planning
 
 This session is meant to plan out the post-envisioning session and potentially schedule some initial code-with sprints.  There may be cases where partners need to set up their Azure environments, provision users according to their roles, or migrate any needed data or infrastructure resources.
 
 The key output of this session is:
+
 * Identify prerequisites for code-with engagement
 * Schedule sprint 0
+
+### In Person / All Day
+
+
+### Virtual 4-Session Agenda
+
+A virtual series of four sessions is used to cover the envisioning and architectural design sessions.  This would be used as an alternative to an in-person, all-day Envisioning and Architectural Design Sessions process.  The four sessions would be segmented according to structure previously defined.
+

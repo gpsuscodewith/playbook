@@ -4,7 +4,7 @@ In order to complete the training, you will need a corporate Pluralsight account
 
 ## Access Instructions
 
-Please follow the [FY21 Pluralsight Access instructions](https://microsoft.sharepoint.com/teams/EngineeringMicrosoftvTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FEngineeringMicrosoftvTeam%2FShared%20Documents%2FPublished%20Artifacts%2FThird%20Party%20Learning%20platform%2FPluralsightLicenseRequest%5FFY21%2Epdf&parent=%2Fteams%2FEngineeringMicrosoftvTeam%2FShared%20Documents%2FPublished%20Artifacts%2FThird%20Party%20Learning%20platform&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnQuc2hhcmVwb2ludC5jb20vOmI6L3QvRW5naW5lZXJpbmdNaWNyb3NvZnR2VGVhbS9FVllIVjJ4YTJ1TkJyS1R3U3BtQ216RUIybnF5T2ZWc2xtaUtBTkp6XzhxVmJnP3J0aW1lPXVieERVam85MkVn).
+Please follow the [Pluralsight Access instructions](https://microsoft.sharepoint.com/teams/EngineeringMicrosoftvTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FEngineeringMicrosoftvTeam%2FShared%20Documents%2FPublished%20Artifacts%2FThird%20Party%20Learning%20platform%2FPluralsightLicenseRequest%5FFY21%2Epdf&parent=%2Fteams%2FEngineeringMicrosoftvTeam%2FShared%20Documents%2FPublished%20Artifacts%2FThird%20Party%20Learning%20platform&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnQuc2hhcmVwb2ludC5jb20vOmI6L3QvRW5naW5lZXJpbmdNaWNyb3NvZnR2VGVhbS9FVllIVjJ4YTJ1TkJyS1R3U3BtQ216RUIybnF5T2ZWc2xtaUtBTkp6XzhxVmJnP3J0aW1lPXVieERVam85MkVn).
 
 Request your subscription as soon as possible since there is a bit of turnaround time.  
 
