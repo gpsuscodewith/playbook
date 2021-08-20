@@ -24,3 +24,10 @@ Unit testing happens after each build | Integration test happens after Unit test
 Automation testing | It can be manual or automation testing | It can be manual or automation testing | It can be manual or automation testing |
 
 ## Sections within Testing
+<<<<<<< HEAD
+=======
+
+* [Unit testing](unit-testing)
+* [Integration testing](integration-testing)
+* [End-to-End testing](e2e-testing)
+>>>>>>> bc1ed56c726f065c651f5a403d40b332bdbac21b
