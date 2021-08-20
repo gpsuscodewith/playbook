@@ -1,4 +1,9 @@
-# E2E Testing Methods
+---
+title: "Testing Methods"
+linkTitle: "Testing Methods"
+type: "docs"
+weight: 3
+---
 
 ## Horizontal Test
 
