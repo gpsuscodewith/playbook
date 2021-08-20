@@ -7,7 +7,7 @@ description: >
   Here's where your user finds out if your project is for them.
 ---
 
-# What does In-Production mean?
+## What does In-Production mean?
 
 A system is "in Production" on Azure if it meets at least one of the following criteria:
 

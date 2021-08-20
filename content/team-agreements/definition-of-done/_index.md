@@ -6,8 +6,6 @@ weight: 2
 description: >
   Here's where your user finds out if your project is for them.
 ---
-
-
 ## Content TODO's
 
 - Solidify recommended checklist as opposed to providing example (see [cobalt](https://github.com/microsoft/cobalt/wiki/Definition-of-Done) definition of done)
