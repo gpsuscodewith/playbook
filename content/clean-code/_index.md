@@ -1,10 +1,7 @@
 ---
 title: "Clean Code"
 linkTitle: "Clean Code"
-<<<<<<< HEAD
 type: "docs"
-=======
->>>>>>> bc1ed56c726f065c651f5a403d40b332bdbac21b
 weight: 1
 description: >
   Here's where your user finds out if your project is for them.
