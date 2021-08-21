@@ -1,4 +1,12 @@
-# Team Definition of Done Agreement
+---
+title: "Team Definition of Done Agreement"
+linkTitle: "Team Definition of Done Agreement"
+type: "docs"
+weight: 2
+description: >
+  Here's where your user finds out if your project is for them.
+---
+
 
 ## Content TODO's
 
