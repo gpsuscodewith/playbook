@@ -1,9 +1,4 @@
----
-title: "Testing Methods"
-linkTitle: "Testing Methods"
-type: "docs"
-weight: 3
----
+# E2E Testing Methods
 
 ## Horizontal Test
 

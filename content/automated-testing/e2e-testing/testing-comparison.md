@@ -1,9 +1,3 @@
----
-title: "Testing Comparison"
-linkTitle: "Testing Comparison"
-type: "docs"
-weight: 3
----
 # Unit vs Integration vs System vs E2E Testing
 
 To better understand which testing methodology when to apply it in your project, the below table illustrates the most critical characteristics and differences between Unit, Integration, System and End-to-End testing:

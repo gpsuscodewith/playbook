@@ -1,8 +1,8 @@
 ---
-title: "GPSUS Playbook"
+title: "Documentation"
 linkTitle: "Documentation"
 weight: 20
-type: "docs"
+type: list
 menu:
   main:
     weight: 20
