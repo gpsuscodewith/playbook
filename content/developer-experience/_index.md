@@ -1,4 +1,12 @@
-# Developer Experience
+---
+title: "Developer Experience"
+linkTitle: "Developer Experience"
+weight: 1
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
+
 
 Developer experience refers to the how easy or difficult it is for a developer to perform essential tasks needed to implement a change. A positive developer experience would mean these tasks are relatively easy for the team (see measures below).
 

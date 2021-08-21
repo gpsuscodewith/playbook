@@ -1,4 +1,12 @@
-# E2E Testing
+---
+title: "E2E Testing"
+linkTitle: "E2E Testing"
+weight: 2
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
+
 
 End-to-end (E2E) testing is a Software testing methodology to test a functional and data application flow consisting of several sub-systems working together from  start to end.
 

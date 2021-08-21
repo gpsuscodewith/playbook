@@ -1,4 +1,11 @@
-# E2E Testing Methods
+---
+title: "Testing Methods"
+linkTitle: "Testing Methods"
+weight: 3
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
 
 ## Horizontal Test
 

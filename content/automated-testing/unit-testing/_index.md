@@ -1,5 +1,11 @@
-# Unit Testing
-
+---
+title: "Unit Testing"
+linkTitle: "Unit Testing"
+weight: 2
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
 ## Goals
 
 Unit tests play an integral role in building quality software and enabling agile methodologies. The implementation of the unit is finished when the unit satisfies the tests.
@@ -14,7 +20,7 @@ Unit tests play an integral role in building quality software and enabling agile
 
 ## Evidence and Measures
 
-The [CICD already requires badges in place](../../continuous-integration/CICD.md) for every repo to quickly assess code coverage and test pass/fail.
+The [CI/CD already requires badges in place](../../continuous-integration/CICD.md) for every repo to quickly assess code coverage and test pass/fail.
 
 The team should also keep in an eye on tests that may not be running as part of every merge, i.e. integration and e2e test.
 

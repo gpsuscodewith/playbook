@@ -1,12 +1,11 @@
 ---
-title: "Team Definition of Done Agreement"
-linkTitle: "Team Definition of Done Agreement"
-type: "docs"
+title: "Definition of Done"
+linkTitle: "Definition of Done"
 weight: 2
+hide_summary: true
 description: >
-  Here's where your user finds out if your project is for them.
+  Learn more about unit, integration, system, and E2E Testing.
 ---
-
 
 ## Content TODO's
 

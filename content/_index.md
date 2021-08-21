@@ -1,8 +1,9 @@
 ---
 title: "Documentation"
 linkTitle: "Documentation"
+type: "docs"
+hide_summary: true
 weight: 20
-type: list
 menu:
   main:
     weight: 20

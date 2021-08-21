@@ -1,3 +1,11 @@
+---
+title: "Tech Lead's Engineering Fundamentals Checklist"
+linkTitle: "Tech Lead's Engineering Fundamentals Checklist"
+weight: 2
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
 # Tech Lead's Engineering Fundamentals Checklist
 
 This checklist helps to ensure that our projects meet our Engineering Fundamentals.

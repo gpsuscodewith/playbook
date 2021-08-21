@@ -1,8 +1,8 @@
 ---
 title: "Tenants"
 linkTitle: "Tenants"
-type: "docs"
 weight: 1
+hide_summary: true
 description: >
   Here's where your user finds out if your project is for them.
 ---
@@ -10,7 +10,7 @@ description: >
 # Core Tenants / Principals
 
 ## Context
-This document describes the core tenants of the OCP Code With team. These tenants help direct the team's enagement model with OCP partners with whom we are co-engineering, as well as between other team members. They should be referenced regularly to guide technical decisions as well as day-to-day operations.
+This document describes the core tenants of the GPS Code With team. These tenants help direct the team's enagement model with GPS partners with whom we are co-engineering, as well as between other team members. They should be referenced regularly to guide technical decisions as well as day-to-day operations.
 
 ## Agile Manifesto Principals
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.

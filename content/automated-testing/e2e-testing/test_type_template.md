@@ -1,3 +1,11 @@
+---
+title: "Test Type"
+linkTitle: "Test Type"
+weight: 3
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
 # ~Test type~
 
 The document should start with a brief overview about the test type and what is covered in this document, the goal here is to provide a high-level description to help the reader understand what is covered to decide whether to continue reading or not.

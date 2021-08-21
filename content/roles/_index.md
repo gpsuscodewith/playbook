@@ -1,4 +1,11 @@
-# OCP Code With Team Roles
+---
+title: "GPSUS Team Roles"
+linkTitle: "GPSUS Team Roles"
+weight: 1
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
 
 A project team should be made up of a few standard roles to ensure the integrity of the work. Each team member should own the responsibilities of that role, but also understand that the success of the project is the responsibility of everyone. If there is an attempt to be pro-active and help a teammate, you should do so.
 
@@ -32,7 +39,7 @@ To start, a technical lead should follow the [Tech Lead's Checklist](tech-leads-
 
 The DevOps Lead is an optional role in a code-with project as some partners may already have established DevOps practices and microservice teams that include DevOps in their software engineering roles.
 
-When the DevOps lead role is filled by the OCP code-with team, the core responsibilities of the DevOps Lead are as follows:
+When the DevOps lead role is filled by the GPS code-with team, the core responsibilities of the DevOps Lead are as follows:
 
 * Make process and tools recommendations
 * Educate/coach team members 
@@ -41,7 +48,7 @@ When the DevOps lead role is filled by the OCP code-with team, the core responsi
 
 ### Software Engineer
 
-A software engineer on a OCP code-with is writes quality code utilizing best practices for maintainability, performance, and reuse.
+A software engineer on a GPS code-with is writes quality code utilizing best practices for maintainability, performance, and reuse.
 
 ### References 
 * Software Enginnering at Google - https://arxiv.org/pdf/1702.01715.pdf

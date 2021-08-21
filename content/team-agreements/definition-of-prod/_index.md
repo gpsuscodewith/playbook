@@ -1,8 +1,9 @@
 ---
-title: "Team Definition of Production"
-linkTitle: "Team Definition of Production"
+title: "Definition of Production"
+linkTitle: "Definition of Production"
 type: "docs"
 weight: 2
+hide_summary: true
 description: >
   Here's where your user finds out if your project is for them.
 ---

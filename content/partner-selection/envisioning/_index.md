@@ -1,3 +1,12 @@
+---
+title: "Envisioning"
+linkTitle: "Envisioning"
+weight: 2
+hide_summary: true
+description: >
+  Learn more about unit, integration, system, and E2E Testing.
+---
+
 # Envisioning Agenda
 
 The Code-with envisioning has the following structure:
