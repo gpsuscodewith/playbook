@@ -10,7 +10,7 @@ _____________________________________
 4. Sloppy = slow (maintenance hit)
 5. Don't be a verb (Ugh, Bob is such a ...)
 
-## Rules
+## Rules Cheat Sheet
 
 ### General rules
 1. Follow standard conventions.
